@@ -53,7 +53,7 @@ function DemoCard({ copied }) {
         <div className="flex flex-col items-center gap-2">
           <div className="w-28 h-28 bg-white rounded-lg p-2.5 flex items-center justify-center">
             {/* QR Code Pattern */}
-            <img src="../../../src/assets/images/web-qr.png" />
+            <img src="../../../src/assets/images/demo-qr.png" />
           </div>
           <span className="text-2xl text-white/50 font-display tracking-wider">
             Scan for Demo!
